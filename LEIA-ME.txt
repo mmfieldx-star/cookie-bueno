@@ -1,0 +1,1 @@
+Pasta reservada para as imagens e vídeo reais do produto (ver README.md na raiz do projeto).
